@@ -62,3 +62,8 @@
  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
 </div>
 
+### Contributions Graph
+
+[![Pinak's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinakviramgama&show_icons=true&theme=dark)](https://github.com/pinakviramgama)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinakviramgama&layout=compact&theme=dark)](https://github.com/pinakviramgama)
