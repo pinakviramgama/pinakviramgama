@@ -2,7 +2,7 @@
 ### Hi, I'm PINAK VIRAMGAMA <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinakviramgama&label=Profile%20views&color=0e75b6&style=flat" alt="pinakviramgama" /> </p>
-<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 ###  AI Intern @Edunet Foundation | Top Contributor (#119) - GSSoC'24 | Aspiring Software Engineer | Mastering DSA | Learning MERN STACK
 -  Passionate about building high-performance Web - sites
@@ -12,10 +12,8 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: pinakdv11@gmail.com
 
-
-- # <img src="https://github.com/user-attachments/assets/8e4058a8-ffed-41b0-bbb2-caa6e0deee07" width = "60" > Let's Connect
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pinak-viramgama-4b25502b0/)
-
+- # <img src="https://github.com/user-attachments/assets/8e4058a8-ffed-41b0-bbb2-caa6e0deee07" width="60"> Let's Connect
+<a href="https://www.linkedin.com/in/pinak-viramgama-4b25502b0/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50"></a>
 
 # <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Tech Stack :
 
