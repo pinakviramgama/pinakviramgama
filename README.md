@@ -17,10 +17,7 @@
 
 # <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Tech Stack :
 
-![C](https://skillicons.dev/icons?i=c)
-![C](https://skillicons.dev/icons?i=cpp)
 ![C](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=html)
 ![C](https://skillicons.dev/icons?i=css)
 ![C](https://skillicons.dev/icons?i=javascript)
@@ -59,9 +56,3 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
 </div>
-
-### Contributions Graph
-
-[![Pinak's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinakviramgama&show_icons=true&theme=dark)](https://github.com/pinakviramgama)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinakviramgama&layout=compact&theme=dark)](https://github.com/pinakviramgama)
